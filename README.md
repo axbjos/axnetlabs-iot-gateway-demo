@@ -1,4 +1,4 @@
-# Dunwoody Software Engineering
+# Software Engineering
 # Simple IoT Gateway Example
 
 nuc1gatewayflows.json
